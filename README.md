@@ -14,9 +14,9 @@ In popular media, hackers are often portrayed as villainous characters who illeg
 * Create a backdoor.
 * Cover your tracks
 
-Types of hacking/hackers
+## Types of hacking/hackers
 
-Broadly speaking, you can say that hackers attempt to break into computers and networks for any of four reasons.
+**_Broadly speaking, you can say that hackers attempt to break into computers and networks for any of four reasons._**
 
 * There's criminal financial gain, meaning the theft of credit card numbers or defrauding banking systems.
 * Next, gaining street cred and burnishing one's reputation within hacker subculture motivates some hackers as they leave their mark on websites they vandalize as proof that they pulled off the hack.
