@@ -1,6 +1,6 @@
 # How to Hack
 
-[![How to Hack](how to hack)](https://github.com/webwiree/how.to.hack)
+[![How to Hack](get-detail.png)](https://github.com/webwiree/how.to.hack)
 
 In popular media, hackers are often portrayed as villainous characters who illegally gain access to computer systems and networks. In truth, a hacker is simply someone who has a vast understanding of computer systems and networks. Some hackers (called black hats) do indeed use their skills for illegal and unethical purposes. Others do it for the challenge. White hat hackers use their skills to solve problems and strengthen security systems.These hackers use their skills to catch criminals and to fix vulnerabilities in security systems. Even if you have no intention of hacking, it's good to know how hackers operate to avoid becoming a target. If you're ready to dive in and learn the art, this wikiHow teaches you a few tips to help you get started.
 
